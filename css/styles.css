@@ -20,3 +20,10 @@ body {
 	color: var(--dark-purple);
 	background-color: ;
 }
+
+.container {
+	width: 100%;
+	max-width: 1146px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
